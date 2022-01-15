@@ -1,0 +1,5 @@
+Bug report:
+1. Steps to reproduce
+2. Actual result
+3.Expected result
+4. Attachment
