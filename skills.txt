@@ -1,0 +1,9 @@
+Skills:
+1. Theory_of_testing
+2. Postman
+3. Jmeter
+4. Check Lists
+5. Bug Reports
+6. SQL
+7. Charles
+8. Mobile Testing
