@@ -1,0 +1,6 @@
+Lastname - Potapovich
+Firstname - Vasya
+Patronymic - Arturovich
+Age - 32
+Pets - 0
+Future Salery - 500000
