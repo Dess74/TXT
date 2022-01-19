@@ -1,5 +1,7 @@
 Bug report:
-1. Steps to reproduce
-2. Actual result
-3.Expected result
-4. Attachment
+1. Summary: Не добавляется товар в корзину
+2. Project: web site
+3. Component: site shopping cart
+4. Version: 1.001
+5. Severity: Blocker
+6. Priority: High
